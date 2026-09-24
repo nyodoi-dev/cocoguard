@@ -1,0 +1,53 @@
+[33mcommit ad6fa4661d5a9f5d427028c1fc647f6cc95c702d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 14:16:37 2026 +0000
+
+    Fix entrypoint line in pyproject.toml
+
+[33mcommit db572f99a386ee414dc5c6b0f131a0baf8c3596d[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 14:16:12 2026 +0000
+
+    Fix entrypoint line in pyproject.toml
+
+[33mcommit 07b112a16f5826e4ac2e7aa866693fdc0d963ebd[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 14:14:31 2026 +0000
+
+    Add project metadata and dependencies to pyproject.toml
+
+[33mcommit 1e46ea3ce133f2def117262813f2fab3390a7457[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 14:10:45 2026 +0000
+
+    Update dependencies in pyproject.toml
+
+[33mcommit 7f6c85962ff2ae6f8b03cfa935e3f001dffef040[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 14:06:34 2026 +0000
+
+    Update pyproject.toml
+
+[33mcommit 182d53ba17bd3726f8ef3a8fb78f582ddbc107af[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 14:04:05 2026 +0000
+
+    Update pyproject.toml
+
+[33mcommit 39a3021e775a37307a9ad4f8de6461b3ae072320[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 13:37:24 2026 +0000
+
+    Add Vercel entrypoint configuration
+
+[33mcommit 13d3e63ee79afebc50305b9c65bd2b81ae824ed5[m
+Author: Nana Yaw Odoi-Yeboah <ce-nodoi-yeboah5123@st.umat.edu.gh>
+Date:   Wed Sep 16 13:33:22 2026 +0000
+
+    Add Vercel entrypoint configuration
+
+[33mcommit 506ad11c26e317406229ec2681d6ee8916e2ba0c[m
+Author: baby7923 <realrebeljnr23@gmail.com>
+Date:   Tue Sep 15 20:07:26 2026 +0000
+
+    Initial CocoaGuard application
