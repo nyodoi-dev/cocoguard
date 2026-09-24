@@ -12,8 +12,19 @@ dependencies = [
     "pyodbc==5.3.0",
     "numpy==2.5.2",
     "pillow==12.3.0",
+    "torch",
+    "torchvision",
     "ultralytics==8.4.129"
 ]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+torchvision = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
 
 [tool.vercel]
 entrypoint = "run:app"

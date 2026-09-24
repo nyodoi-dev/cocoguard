@@ -16,6 +16,8 @@ connection_string = (
 )
 
 class Config:
+    SECRET_KEY = os.getenv("SECRET_KEY", "181a43f36200e4044fe400ab6ee609920892904f048c048d05c8f5813f3dc92a")
+
     SQLALCHEMY_DATABASE_URI = (
         "mssql+pyodbc:///?odbc_connect="
         + quote_plus(connection_string)
